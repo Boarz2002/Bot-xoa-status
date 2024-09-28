@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Đang xem Sapaw sục kẹc","Đang ỉa"];
+const statusMessages = ["Đang xem phát ỉa","loz Quàng"];
 
 
 let currentIndex = 0;
