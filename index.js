@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Đang chill cùng Boarz","Chơi MINIGAME đi","Xem trộm Sapaw tắm"];
+const statusMessages = ["Chill cùng Boarz","Chơi MINIGAME đi","TFT mùa 2"];
 
 
 let currentIndex = 0;
