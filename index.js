@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Chill cùng Boarz","Chơi MINIGAME đi","TFT mùa 2"];
+const statusMessages = ["Chill cùng Boarz","Chơi MINIGAME đi","Ao làng TFT"];
 
 
 let currentIndex = 0;
