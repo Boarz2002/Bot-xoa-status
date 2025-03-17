@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Alissa Tien","Chơi Vanlorant cùng Boarz","Boo Family"];
+const statusMessages = ["Bàn ghế nội thất","Milano Boarz","Boo Family"];
 
 
 let currentIndex = 0;
